@@ -169,7 +169,8 @@ git cherry-pick --continue
 
 ### commit message 양식
 
-- Udacity (MOOC 플랫폼) commit message 양식이 유명
-- [링크](https://udacity.github.io/git-styleguide/)
+Udacity (MOOC 플랫폼) commit message 양식이 유명
+- https://udacity.github.io/git-styleguide/
 
-- 최근 gitmoji를 활용하기도 함
+### 깃 브랜칭을 연습하는 웹앱
+- https://learngitbranching.js.org/?locale=us
